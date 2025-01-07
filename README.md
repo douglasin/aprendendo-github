@@ -147,6 +147,11 @@ O Git revolucionou o **controle de versões** e se tornou a ferramenta mais popu
 ## Dúvidas? 🤔
 
 Se você tiver alguma dúvida ou precisar de ajuda, entre em contato no **grupo de WhatsApp**, ou consulte a **[apresentação do curso](https://domine-git-github-cgqempe.gamma.site)** para mais informações.
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/9fwbok.jpg"  />
+</div>
+
+###
 
 ---
 
