@@ -1,6 +1,6 @@
-# Padrões de Commit e Branch
 
-Este documento descreve os padrões recomendados para commits e branches, com o objetivo de melhorar a organização, clareza e consistência no fluxo de trabalho de desenvolvimento.
+
+### Este documento descreve os padrões recomendados para commits e branches, com o objetivo de melhorar a organização, clareza e consistência no fluxo de trabalho de desenvolvimento.
 
 ## Padrões de Commit
 
