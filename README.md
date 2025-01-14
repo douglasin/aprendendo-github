@@ -130,7 +130,7 @@ Envie suas alterações para o **repositório remoto**. O `-u` estabelece o `ori
 1. Faça um **fork** deste repositório.
 2. Crie uma nova **branch**: `git checkout -b minha-nova-feature`.
 3. Realize suas **alterações**.
-4. Faça o **commit**: `git commit -am "Adicionando nova feature"`.
+4. Faça o **commit**: `git commit -m "Adicionando nova feature"`.
 5. Envie para o repositório remoto: `git push origin minha-nova-feature`.
 6. Abra um **Pull Request** para que possamos revisar e integrar suas contribuições!
 
